@@ -1,2 +1,0 @@
-These files are only here to automatically create desktop and start menu shortcuts.
-If you don't want these files, you can safely delete them.

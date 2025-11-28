@@ -7,3 +7,5 @@ Because this download contains the CS+ data files, you should check your local l
 
 Nicalis owns all the rights to the CS+ data files.\
 [doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs) is an open-source reimplementation of the original freeware version of Cave Story.
+
+**DMCA Notice:** If you are part of Nicalis (or a representative) and don't want the CS+ files here removed, feel free to DMCA this repository.
